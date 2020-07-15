@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name is Nikhil Shrimali, welcome to my GIT profile. 
   - 🔭 I’m currently learning Deep learning with Pytorch, Robitics
-  - 🌱 I am an environment enthusiast (Best time to WakeUp!!)
+  - 🌱 I am an environment enthusiast, aspiring Social Entrepreneur(Best time to WakeUp!!)
   - ⚡ Fun fact: Mars colonization sounds amazing, but isn't
   - 👯 I’m looking to collaborate on any environment releated IOT devices projects
   - 💬 Ask me about Gardening, Trekking, Sketching
